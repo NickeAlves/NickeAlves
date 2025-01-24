@@ -1,6 +1,6 @@
-# 💻 Nicolas Alves (NickeAlves)
+# 💻 Nicolas Alves
 
-### 🌟 Back-End Developer | Enthusiast in Optimization and Innovation | Information Systems Student  
+### 🌟 Junior Developer | Enthusiast in Optimization and Innovation | Information Systems Student  
 
 Welcome to my GitHub profile! I'm passionate about developing solutions that simplify processes and drive results. Currently, I'm focused on **web development**, **API integration**, and **software maintenance**.  
 
