@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm passionate about developing solutions that sim
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Nicolas Alves](https://www.linkedin.com/in/nicolas-alves-101/)  
-- GitHub: [NickeAlves](https://github.com/NickeAlves)  
+- LinkedIn: [Nicolas Alves](https://www.linkedin.com/in/nicolasdevback/)  
+- Email: nicke.rodrigues1125@hotmail.com 
 
 💡 *If you're looking for a dedicated developer always willing to learn, I'm available to collaborate on amazing projects!*
