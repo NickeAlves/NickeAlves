@@ -29,13 +29,6 @@ Welcome to my GitHub profile! I'm passionate about developing solutions that sim
 
 ---
 
-## 🌱 What I'm Learning Now
-
-- **Advancing in:** React with Next.js  
-- **Exploring:** REST API integration with Java (Spring)  
-
----
-
 ## 📈 My Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickeAlves&layout=compact&theme=radical)  
