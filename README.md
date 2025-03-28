@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about developing solutions that sim
 
 ## 📈 My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickeAlves&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickeAlves&layout=compact&theme=radical) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickeAlves&show_icons=true&theme=radical)  
 
 ---
