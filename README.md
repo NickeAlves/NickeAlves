@@ -1,16 +1,30 @@
-# 💻 Nicolas Alves
+# Hi There! 👋
 
-### 🌟 Full Stack Developer | Enthusiast in Optimization and Innovation | Information Systems Student  
-
-Welcome to my GitHub profile! I'm passionate about developing solutions that simplify processes and drive results. Currently, I'm focused on **web development**, **API integration**, and **software maintenance**.  
+###  My name is Nicolas Alves, nice to meet you!
 
 ---
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolasfullstack/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://nportifolio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:nicke.rodrigues1125@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+
+
+
+
+---
+
+- 🧑‍💻 **Fullstack Developer**
 - 🎓 **Information Systems** student at Estácio  
-- 🧑‍💻 **Back-End Developer**, completed the **Oracle Next Education (ONE)** program  
-- 📚 Always eager to learn, collaborate, and build something amazing!
+- 🌟 **Back-End Developer**, completed the **Oracle Next Education (ONE)** program  
 
 ---
 
@@ -32,13 +46,4 @@ Welcome to my GitHub profile! I'm passionate about developing solutions that sim
 ## 📈 My Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickeAlves&layout=compact&theme=radical) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickeAlves&show_icons=true&theme=radical)  
 
----
-
-## 📫 Let's Connect!
-
-- LinkedIn: [Nicolas Alves](https://www.linkedin.com/in/nicolasdevback/)  
-- Email: nicke.rodrigues1125@hotmail.com 
-
-💡 *If you're looking for a dedicated developer always willing to learn, I'm available to collaborate on amazing projects!*
