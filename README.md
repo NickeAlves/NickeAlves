@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-###  My name is Nicolas Alves, nice to meet you!
+###  I'm Nicolas Alves, FullStack Developer!
 
 ---
 
