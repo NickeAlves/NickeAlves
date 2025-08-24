@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-###  I'm Nicolas Alves, FullStack Developer!
+###  I'm Nicolas Alves, Software Engineer!
 
 ---
 
