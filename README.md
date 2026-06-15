@@ -1,49 +1,123 @@
-# Hi There! 👋
+# Hi there 👋
 
-###  I'm Nicolas Alves, Software Engineer!
+<h1 align="center">Nicolas Alves</h1>
+<h3 align="center">Software Engineer • Backend • Distributed Systems • AI Applications</h3>
 
----
+<p align="center">
+Building scalable SaaS platforms, AI-powered products, event-driven architectures and modern backend systems.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolasengineer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://nportifolio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:nicke.rodrigues1125@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
 
+## 🚀 About Me
 
+Software Engineer focused on backend development, distributed systems, AI-powered applications and scalable SaaS platforms.
 
+Currently working on:
+
+* 🤖 AI Agents & Automations
+* 🏗️ Distributed Systems & Event-Driven Architectures
+* ⚡ High-performance APIs & Microservices
+* 🏢 Multi-Tenant SaaS Platforms
+* 🔗 MCP (Model Context Protocol) Integrations
+* ☁️ Cloud-Native Applications
 
 ---
 
-- 🧑‍💻 **Software Engineer**
-- 🎓 **Information Systems** student at Estácio  
-- 🌟 **Back-End Developer**, completed the **Oracle Next Education (ONE)** program  
+## 💼 Current Position
+
+### Software Engineer @ Grapevine CRM
+
+Working on modern CRM solutions powered by AI, automations and scalable backend architectures.
+
+Main responsibilities:
+
+* Backend development with NestJS, PostgreSQL and Prisma
+* Redis caching and RabbitMQ messaging
+* AI Agent orchestration
+* Automation engines
+* Multi-tenant architecture
+* Webhooks and integrations
+* Scalability and performance improvements
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tech Stack
 
-### Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/Typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+### Backend
 
-### Frameworks and Libraries  
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Tailwindcss](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 
-### Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-### Tools  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 📈 My Stats
+## 🎯 Areas of Interest
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickeAlves&layout=compact&theme=radical) 
+* Artificial Intelligence
+* AI Agents
+* Automations
+* MCP Integrations
+* Backend Engineering
+* Software Architecture
+* Distributed Systems
+* Event-Driven Architecture
+* Microservices
+* SaaS Platforms
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NickeAlves&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickeAlves&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+* Software Engineering
+* AI Applications
+* SaaS Products
+* Backend Architecture
+* Distributed Systems
+* Startup Technology
+
+📫 Reach me at: **[nicke.rodrigues1125@hotmail.com](mailto:nicke.rodrigues1125@hotmail.com)**
