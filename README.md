@@ -97,27 +97,3 @@ Main responsibilities:
 * Event-Driven Architecture
 * Microservices
 * SaaS Platforms
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NickeAlves&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickeAlves&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing:
-
-* Software Engineering
-* AI Applications
-* SaaS Products
-* Backend Architecture
-* Distributed Systems
-* Startup Technology
-
-📫 Reach me at: **[nicke.rodrigues1125@hotmail.com](mailto:nicke.rodrigues1125@hotmail.com)**
